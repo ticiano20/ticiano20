@@ -2,9 +2,9 @@
 
 **Data Analyst & Software Developer** | Junior
 
-🇪🇸 Estudiante de la Tecnicatura en Programación (UTN) y de la Licenciatura en Ciberdefensa (UNDEF). Me apasiona el desarrollo backend en C# y el análisis de datos con SQL. Actualmente construyo proyectos aplicando buenas prácticas de arquitectura y bases de datos, mientras me formo en Power BI.
+Estudiante de la Tecnicatura en Programación (UTN) y de la Licenciatura en Ciberdefensa (UNDEF). Me apasiona el desarrollo backend en C# y el análisis de datos con SQL. Actualmente construyo proyectos aplicando buenas prácticas de arquitectura y bases de datos, mientras me formo en Power BI.
 
-🇬🇧 Programming student (UTN) and Cyberdefense student (UNDEF). Passionate about backend development in C# and data analysis with SQL. Currently building projects applying clean architecture and good database practices, while learning Power BI.
+Programming student (UTN) and Cyberdefense student (UNDEF). Passionate about backend development in C# and data analysis with SQL. Currently building projects applying clean architecture and good database practices, while learning Power BI.
 
 ---
 
@@ -26,9 +26,9 @@
 
 **[Sistema de Turnos](https://github.com/ticiano20/Sistema-Turnos)** — Appointment scheduling system for a health center
 
-🇪🇸 Sistema de gestión de turnos para un centro de salud, desarrollado en C# aplicando Clean Architecture, con base de datos en SQL Server modelada mediante Entity Framework Core (Code First).
+Sistema de gestión de turnos para un centro de salud, desarrollado en C# aplicando Clean Architecture, con base de datos en SQL Server modelada mediante Entity Framework Core (Code First).
 
-🇬🇧 Appointment scheduling system for a health center, built in C# applying Clean Architecture, with a SQL Server database modeled using Entity Framework Core (Code First).
+Appointment scheduling system for a health center, built in C# applying Clean Architecture, with a SQL Server database modeled using Entity Framework Core (Code First).
 
 ---
 
