@@ -2,9 +2,9 @@
 
 **Data Analyst & Software Developer** | Junior
 
-Estudiante de la Tecnicatura en Programación (UTN) y de la Licenciatura en Ciberdefensa (UNDEF). Me apasiona el desarrollo backend en C# y el análisis de datos con SQL. Actualmente construyo proyectos aplicando buenas prácticas de arquitectura y bases de datos, mientras me formo en Power BI.
+**ES** — Estudiante de la Tecnicatura en Programación (UTN) y de la Licenciatura en Ciberdefensa (UNDEF). Me apasiona el desarrollo backend en C# y el análisis de datos con SQL. Actualmente construyo proyectos aplicando buenas prácticas de arquitectura y bases de datos, mientras me formo en Power BI y en ciberseguridad.
 
-Programming student (UTN) and Cyberdefense student (UNDEF). Passionate about backend development in C# and data analysis with SQL. Currently building projects applying clean architecture and good database practices, while learning Power BI.
+**EN** — Programming student (UTN) and Cyberdefense student (UNDEF). Passionate about backend development in C# and data analysis with SQL. Currently building projects applying clean architecture and good database practices, while learning Power BI and cybersecurity.
 
 ---
 
@@ -18,7 +18,18 @@ Programming student (UTN) and Cyberdefense student (UNDEF). Passionate about bac
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Learning-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+---
+
+### 🎯 Learning & Interests / En formación e intereses
+
+![Power BI](https://img.shields.io/badge/Power%20BI-learning-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-learning-0A66C2?style=flat&logo=hackthebox&logoColor=white)
+
+**ES** — En formación en análisis y visualización de datos (Power BI) y en ciberseguridad, esta última a través de la Licenciatura en Ciberdefensa (UNDEF) y formación complementaria.
+
+**EN** — Currently learning data analysis and visualization (Power BI) and cybersecurity, the latter through my Cyberdefense degree (UNDEF) and additional training.
 
 ---
 
@@ -26,9 +37,9 @@ Programming student (UTN) and Cyberdefense student (UNDEF). Passionate about bac
 
 **[Sistema de Turnos](https://github.com/ticiano20/Sistema-Turnos)** — Appointment scheduling system for a health center
 
-Sistema de gestión de turnos para un centro de salud, desarrollado en C# aplicando Clean Architecture, con base de datos en SQL Server modelada mediante Entity Framework Core (Code First).
+**ES** — Sistema de gestión de turnos para un centro de salud, desarrollado en C# aplicando Clean Architecture, con base de datos en SQL Server modelada mediante Entity Framework Core (Code First).
 
-Appointment scheduling system for a health center, built in C# applying Clean Architecture, with a SQL Server database modeled using Entity Framework Core (Code First).
+**EN** — Appointment scheduling system for a health center, built in C# applying Clean Architecture, with a SQL Server database modeled using Entity Framework Core (Code First).
 
 ---
 
@@ -40,19 +51,3 @@ Appointment scheduling system for a health center, built in C# applying Clean Ar
 ---
 
 *Open to opportunities as a Data Analyst or Junior Developer — En búsqueda de oportunidades como Analista de Datos o Desarrollador Junior.*
-
-
-<!--
-**ticiano20/ticiano20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
